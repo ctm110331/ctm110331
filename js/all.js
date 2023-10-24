@@ -1,4 +1,4 @@
-Vue.createApp({
+Vue.createA1pp({
     data: function () {
         return {
             times: [
