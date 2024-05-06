@@ -219,7 +219,7 @@ icon.onclick = function () {
         iconcontain.textContent = "夜晚模式";
     }
 };
-$(document).ready(function () {
+jQuery(document).ready(function ($) {
     $("#icon").hover(function () {
         $("#icon").css("color", "#f9ba48");
     }, function () {
